@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Roboto&display=swap');
+body{
+    background-color: rgb(235, 255, 246);
+}
 *{
     margin: 0;
     padding: 0;
